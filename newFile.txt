@@ -1,3 +1,4 @@
 Introducing changes in file.
 Another changes in file.
 Alex has a cat.
+And also a dog.
