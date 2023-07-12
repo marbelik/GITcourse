@@ -2,5 +2,3 @@ change in file.
 New changes will overwrite old ones.
 new changes in file.
 other changes in file again.
-
-Adding new, experimental funcionality.
